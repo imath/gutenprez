@@ -1,0 +1,17 @@
+[data-type="gutenprez/navigation"] .gutenprez-navigation {
+	border-top: dotted 1px #0073aa;
+	padding-top: 1em;
+	overflow: hidden;
+}
+
+[data-type="gutenprez/navigation"] .gutenprez-navigation a {
+	display: block;
+}
+
+[data-type="gutenprez/navigation"] .gutenprez-navigation a.next {
+	float: right;
+}
+
+[data-type="gutenprez/navigation"] .gutenprez-navigation a.prev {
+	float: left;
+}

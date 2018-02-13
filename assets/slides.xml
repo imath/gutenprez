@@ -38,86 +38,83 @@
 	<generator>https://wordpress.org/?v=5.0-alpha-42125-src</generator>
 
 	<item>
-		<title>
-		Le Projet Gutenberg		</title>
-		<link>https://imathi.eu/gutenslides/le-projet-gutenberg/</link>
-		<pubDate>Sat, 27 Jan 2018 12:40:44 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3286</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:cover-image {"url":"https://cldup.com/HragEkivqx.jpg","align":"full","id":3288,"hasParallax":true} -->
+			<title>
+			Le Projet Gutenberg		</title>
+			<link>https://imathi.eu/gutenslides/le-projet-gutenberg/</link>
+			<pubDate>Sat, 27 Jan 2018 12:40:44 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3286</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+
+<!-- wp:core/cover-image {"url":"https://cldup.com/HragEkivqx.jpg","align":"full","id":3288,"hasParallax":true} -->
 <section class="wp-block-cover-image has-background-dim has-parallax alignfull" style="background-image:url(https://cldup.com/HragEkivqx.jpg)">
     <h2>Vers une approche plus fine du contenu.</h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
+
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3286</wp:post_id>
+			<wp:post_date><![CDATA[2018-01-27 13:40:44]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-01-27 12:40:44]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[le-projet-gutenberg]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>1</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+		</item>
+		<item>
+			<title>
+			Contenus dynamiques ?		</title>
+			<link>https://imathi.eu/gutenslides/contenus-dynamiques/</link>
+			<pubDate>Fri, 02 Feb 2018 20:13:59 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3371</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+<!-- wp:core/code -->
+<pre class="wp-block-code"><code>[shortcode parametre=&quot;valeur&quot;]contenu[/shortcode]</code></pre>
+<!-- /wp:core/code -->
 
 <!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3286</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-27 13:40:44]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-27 12:40:44]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[le-projet-gutenberg]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		</item>
-		<item>
-		<title>
-		Contenus dynamiques ?		</title>
-		<link>https://imathi.eu/gutenslides/contenus-dynamiques/</link>
-		<pubDate>Fri, 02 Feb 2018 20:13:59 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3371</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:code -->
-<pre class="wp-block-code"><code>[shortcode parametre=&quot;valeur&quot;]contenu[/shortcode]</code></pre>
-<!-- /wp:code -->
+			<excerpt:encoded>
+			<![CDATA[
 
-<!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3371</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-02 21:13:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-02 20:13:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contenus-dynamiques]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+						]]>		</excerpt:encoded>
+			<wp:post_id>3371</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-02 21:13:59]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-02 20:13:59]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[contenus-dynamiques]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>3</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		Les champs personnalisés sont ils des portions de contenu ?		</title>
-		<link>https://imathi.eu/gutenslides/les-champs-personnalises-sont-ils-des-portions-de-contenu/</link>
-		<pubDate>Fri, 02 Feb 2018 20:21:17 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3376</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:gallery {"align":"wide","columns":1,"className":"aligncenter"} -->
+			<title>
+			Les champs personnalisés sont ils des portions de contenu ?		</title>
+			<link>https://imathi.eu/gutenslides/les-champs-personnalises-sont-ils-des-portions-de-contenu/</link>
+			<pubDate>Fri, 02 Feb 2018 20:21:17 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3376</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+<!-- wp:core/gallery {"align":"wide","columns":1,"className":"aligncenter"} -->
 <ul class="wp-block-gallery alignwide columns-1 is-cropped aligncenter">
     <li class="blocks-gallery-item">
         <figure><img src="https://cldup.com/EoFaea6RTC.png" alt="" data-id="3383" /></figure>
@@ -126,203 +123,195 @@
         <figure><img src="https://cldup.com/xPQ-s7pLUt.png" alt="" data-id="3432" /></figure>
     </li>
 </ul>
-<!-- /wp:gallery -->
+<!-- /wp:core/gallery -->
 
-<!-- wp:paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
+<!-- wp:core/paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
 <p style="background-color:#229fd8;color:#ffffff;font-size:29px;text-align:center" class="has-background"><strong>Eparpillement du contenu dans la base de données</strong></p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
+<!-- wp:core/paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
 <p style="background-color:#229fd8;color:#ffffff;font-size:29px;text-align:center" class="has-background">﻿<strong>Multiplication des requêtes pour reconstituer l&#x27;intégralité du contenu</strong></p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3376</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-02 21:21:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-02 20:21:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[les-champs-personnalises-sont-ils-des-portions-de-contenu]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3376</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-02 21:21:17]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-02 20:21:17]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[les-champs-personnalises-sont-ils-des-portions-de-contenu]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>5</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		Mais quelles clés ?		</title>
-		<link>https://imathi.eu/gutenslides/mais-quelles-cles/</link>
-		<pubDate>Fri, 02 Feb 2018 20:25:17 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3388</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:code -->
+			<title>
+			Mais quelles clés ?		</title>
+			<link>https://imathi.eu/gutenslides/mais-quelles-cles/</link>
+			<pubDate>Fri, 02 Feb 2018 20:25:17 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3388</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>  wp_posts.post_content
 + wp_postmeta.meta_key(s)</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3388</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-02 21:25:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-02 20:25:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[mais-quelles-cles]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3388</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-02 21:25:17]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-02 20:25:17]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[mais-quelles-cles]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>6</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		Une Clé !		</title>
-		<link>https://imathi.eu/gutenslides/la-cle/</link>
-		<pubDate>Fri, 02 Feb 2018 20:57:30 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3394</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:image {"id":3326,"align":"left","className":"aligncenter"} -->
-<figure class="wp-block-image alignleft aligncenter" style="max-width:50%"><img src="https://cldup.com/Dm0gG4qt7x.jpg" alt="" class="wp-image-3326" /></figure>
-<!-- /wp:image -->
+			<title>
+			Une Clé !		</title>
+			<link>https://imathi.eu/gutenslides/la-cle/</link>
+			<pubDate>Fri, 02 Feb 2018 20:57:30 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3394</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[<!-- wp:core/image {"id":3326,"align":"left","className":"aligncenter"} -->
+<figure class="wp-block-image alignleft aligncenter" style="max-width:50%"><img src="https://cldup.com/Dm0gG4qt7x.jpg" alt="" /></figure>
+<!-- /wp:core/image -->
 
-<!-- wp:list -->
+<!-- wp:core/list -->
 <ul>
     <li><strong>Standardiser</strong> la manière de stocker les fragments de contenu des articles et des pages et d’en déduire la mise en forme à lui appliquer.</li>
     <li><strong>Améliorer l’expérience de l’utilisateur</strong> pour créer ces contenus grâce à un nouvel éditeur de blocs basé sur l’utilisation d’un <strong>JavaScript Moderne</strong>.</li>
 </ul>
-<!-- /wp:list -->
+<!-- /wp:core/list -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3394</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-02 21:57:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-02 20:57:30]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[la-cle]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3394</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-02 21:57:30]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-02 20:57:30]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[la-cle]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>7</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-		<title>
-		Fragmentation du contenu		</title>
-		<link>https://imathi.eu/gutenslides/fragmenter-le-contenu/</link>
-		<pubDate>Sat, 03 Feb 2018 12:28:17 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3416</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:paragraph -->
+			<title>
+			Fragmentation du contenu		</title>
+			<link>https://imathi.eu/gutenslides/fragmenter-le-contenu/</link>
+			<pubDate>Sat, 03 Feb 2018 12:28:17 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3416</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+<!-- wp:core/paragraph -->
 <p>Manipuler une unité plus fine permet de :</p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:list -->
+<!-- wp:core/list -->
 <ul>
     <li>mieux contrôler le positionnement des éléments,</li>
     <li>simplifier la réorganisation ou le changement d’ordre de ces éléments,</li>
     <li>faciliter la rédaction par les utilisateurs.</li>
 </ul>
-<!-- /wp:list -->
+<!-- /wp:core/list -->
 
-<!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3416</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-03 13:28:17]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-03 12:28:17]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fragmenter-le-contenu]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3416</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-03 13:28:17]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-03 12:28:17]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[fragmenter-le-contenu]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>4</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		Les prochaines évolutions de Gutenberg.		</title>
-		<link>https://imathi.eu/gutenslides/les-prochaines-evolutions-de-gutenberg/</link>
-		<pubDate>Thu, 08 Feb 2018 08:33:16 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3638</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:cover-image {"url":"https://cldup.com/f_XYigszLe.jpeg","align":"center","id":3642,"dimRatio":0} -->
+			<title>
+			Les prochaines évolutions de Gutenberg.		</title>
+			<link>https://imathi.eu/gutenslides/les-prochaines-evolutions-de-gutenberg/</link>
+			<pubDate>Thu, 08 Feb 2018 08:33:16 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3638</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+
+<!-- wp:core/cover-image {"url":"https://cldup.com/f_XYigszLe.jpeg","align":"center","id":3642,"dimRatio":0} -->
 <section class="wp-block-cover-image aligncenter" style="background-image:url(https://cldup.com/f_XYigszLe.jpeg)">
     <h2> </h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3638</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-08 09:33:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-08 08:33:16]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[les-prochaines-evolutions-de-gutenberg]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3638</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-08 09:33:16]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-08 08:33:16]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[les-prochaines-evolutions-de-gutenberg]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>15</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		+ de 10 ans de stabilité		</title>
-		<link>https://imathi.eu/gutenslides/un-projet-qui-a-divise/</link>
-		<pubDate>Mon, 29 Jan 2018 21:17:59 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3344</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:gallery {"align":"full","columns":2,"imageCrop":false} -->
+			<title>
+			+ de 10 ans de stabilité		</title>
+			<link>https://imathi.eu/gutenslides/un-projet-qui-a-divise/</link>
+			<pubDate>Mon, 29 Jan 2018 21:17:59 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3344</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+<!-- wp:core/gallery {"align":"full","columns":2,"imageCrop":false} -->
 <ul class="wp-block-gallery alignfull columns-2">
     <li class="blocks-gallery-item">
         <figure><img src="https://cldup.com/BbySdK8x-u.png" alt="" data-id="3368" /></figure>
@@ -331,213 +320,215 @@
         <figure><img src="https://cldup.com/e1RzKTIyDZ.png" alt="" data-id="3369" /></figure>
     </li>
 </ul>
-<!-- /wp:gallery -->
+<!-- /wp:core/gallery -->
 
-<!-- wp:paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
+<!-- wp:core/paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
 <p style="background-color:#229fd8;color:#ffffff;font-size:29px;text-align:center" class="has-background">Champ unique, multi-lignes certes, mais constitué d&#x27;un seul bloc !</p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
+<!-- wp:core/paragraph {"align":"center","textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":29} -->
 <p style="background-color:#229fd8;color:#ffffff;font-size:29px;text-align:center" class="has-background">Libres et limités à la fois</p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3709</wp:post_id>
-		<wp:post_date><![CDATA[2018-01-29 22:17:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-01-29 21:17:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[un-projet-qui-a-divise]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3709</wp:post_id>
+			<wp:post_date><![CDATA[2018-01-29 22:17:59]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-01-29 21:17:59]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[un-projet-qui-a-divise]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>2</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		Persistance du contenu		</title>
-		<link>https://imathi.eu/gutenslides/persistance-du-contenu/</link>
-		<pubDate>Sat, 03 Feb 2018 13:42:26 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3445</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:code -->
+			<title>
+			Persistance du contenu		</title>
+			<link>https://imathi.eu/gutenslides/persistance-du-contenu/</link>
+			<pubDate>Sat, 03 Feb 2018 13:42:26 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3445</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[<!-- wp:core/code -->
 <pre class="wp-block-code"><code>wp_posts.post_content</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:image {"id":3450,"align":"center"} -->
-<figure class="wp-block-image aligncenter"><img src="https://cldup.com/_meBNdzXLJ.png" alt="" class="wp-image-3450" /></figure>
-<!-- /wp:image -->
+<!-- wp:core/image {"id":3450,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><img src="https://cldup.com/_meBNdzXLJ.png" alt="" /></figure>
+<!-- /wp:core/image -->
 
 <!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3711</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-03 14:42:26]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-03 13:42:26]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[persistance-du-contenu]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3711</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-03 14:42:26]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-03 13:42:26]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[persistance-du-contenu]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>8</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-		<title>
-		JavaScript Moderne		</title>
-		<link>https://imathi.eu/gutenslides/javascript-moderne/</link>
-		<pubDate>Sat, 03 Feb 2018 13:47:45 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3454</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:cover-image {"url":"https://cldup.com/dQhQDn7kQu.png","align":"full","contentAlign":"left","id":3457,"hasParallax":true,"dimRatio":40} -->
-<section class="wp-block-cover-image has-background-dim-40 has-background-dim has-parallax has-left-content alignfull" style="background-image:url(https://cldup.com/dQhQDn7kQu.png)">
+			<title>
+			JavaScript Moderne		</title>
+			<link>https://imathi.eu/gutenslides/javascript-moderne/</link>
+			<pubDate>Sat, 03 Feb 2018 13:47:45 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3454</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[<!-- wp:core/cover-image {"url":"https://cldup.com/dQhQDn7kQu.png","align":"full","contentAlign":"left","id":3457,"dimRatio":40} -->
+<section class="wp-block-cover-image has-background-dim-40 has-background-dim has-left-content alignfull" style="background-image:url(https://cldup.com/dQhQDn7kQu.png)">
     <h2>React, une librairie JavaScript pour construire des interfaces utilisateur.</h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
 <!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3712</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-03 14:47:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-03 13:47:45]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[javascript-moderne]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3712</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-03 14:47:45]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-03 13:47:45]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[javascript-moderne]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>9</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-		<title>
-		Rest API		</title>
-		<link>https://imathi.eu/gutenslides/rest-api/</link>
-		<pubDate>Sat, 03 Feb 2018 13:51:09 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3463</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:image {"id":3319,"align":"center","className":"aligncenter"} -->
-<figure class="wp-block-image aligncenter"><img src="https://cldup.com/vL0Y-OPSji.png" alt="" class="wp-image-3319" /></figure>
-<!-- /wp:image -->
+			<title>
+			Rest API		</title>
+			<link>https://imathi.eu/gutenslides/rest-api/</link>
+			<pubDate>Sat, 03 Feb 2018 13:51:09 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3463</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[<!-- wp:core/image {"id":3319,"align":"center","className":"aligncenter"} -->
+<figure class="wp-block-image aligncenter aligncenter"><img src="https://cldup.com/vL0Y-OPSji.png" alt="" /></figure>
+<!-- /wp:core/image -->
 
-<!-- wp:code -->
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>&#x27;show_in_rest&#x27; =&gt; true</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
 <!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3713</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-03 14:51:09]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-03 13:51:09]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[rest-api]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3713</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-03 14:51:09]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-03 13:51:09]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[rest-api]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>10</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-		<title>
-		C&#039;est pour la prochaine version majeure de WordPress !		</title>
-		<link>https://imathi.eu/gutenslides/cest-pour-la-prochaine-version-majeure-de-wordpress/</link>
-		<pubDate>Sat, 03 Feb 2018 13:57:18 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3472</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:cover-image {"url":"https://cldup.com/8Yse5H_U8w.jpg","align":"full","id":3475,"dimRatio":20} -->
+			<title>
+			C&#039;est pour la prochaine version majeure de WordPress !		</title>
+			<link>https://imathi.eu/gutenslides/cest-pour-la-prochaine-version-majeure-de-wordpress/</link>
+			<pubDate>Sat, 03 Feb 2018 13:57:18 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3472</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[<!-- wp:core/cover-image {"url":"https://cldup.com/8Yse5H_U8w.jpg","align":"full","id":3475,"dimRatio":20} -->
 <section class="wp-block-cover-image has-background-dim-20 has-background-dim alignfull" style="background-image:url(https://cldup.com/8Yse5H_U8w.jpg)">
     <h2>5.0.0</h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
-<!-- wp:paragraph {"dropCap":true,"textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":23} -->
+<!-- wp:core/paragraph {"dropCap":true,"textColor":"#ffffff","backgroundColor":"#229fd8","fontSize":23} -->
 <p style="background-color:#229fd8;color:#ffffff;font-size:23px" class="has-background has-drop-cap">Renversement de la logique, l&#x27;éditeur moderne devient celui qui est utilisé par défaut, pour restaurer l&#x27;éditeur classique : il suffira d&#x27;activer l&#x27;extension du même nom.</p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:embed {"url":"https://wordpress.org/plugins/classic-editor"} -->
-<figure class="wp-block-embed">
+<!-- wp:gutenblocks/wp-embed {"url":"https://wordpress.org/plugins/classic-editor"} -->
+<div class="wp-block-gutenblocks-wp-embed">
     https://wordpress.org/plugins/classic-editor
-</figure>
-<!-- /wp:embed -->
+</div>
+<!-- /wp:gutenblocks/wp-embed -->
 
 <!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3714</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-03 14:57:18]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-03 13:57:18]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cest-pour-la-prochaine-version-majeure-de-wordpress]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_b117d7a59a540594eccf20f77bcf731a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<blockquote class="wp-embedded-content" data-secret="RxZV3W2Wmx"><a href="https://wordpress.org/plugins/classic-editor/">Classic Editor</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://wordpress.org/plugins/classic-editor/embed/#?secret=RxZV3W2Wmx" data-secret="RxZV3W2Wmx" width="600" height="338" title="&#8220;Classic Editor&#8221; &#8212; Plugin Directory" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-		<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_b117d7a59a540594eccf20f77bcf731a]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1517752133]]></wp:meta_value>
-		</wp:postmeta>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3714</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-03 14:57:18]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-03 13:57:18]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[cest-pour-la-prochaine-version-majeure-de-wordpress]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>11</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_oembed_b117d7a59a540594eccf20f77bcf731a]]></wp:meta_key>
+				<wp:meta_value><![CDATA[<blockquote class="wp-embedded-content" data-secret="RxZV3W2Wmx"><a href="https://wordpress.org/plugins/classic-editor/">Classic Editor</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" src="https://wordpress.org/plugins/classic-editor/embed/#?secret=RxZV3W2Wmx" data-secret="RxZV3W2Wmx" width="600" height="338" title="&#8220;Classic Editor&#8221; &#8212; Plugin Directory" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>]]></wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_oembed_time_b117d7a59a540594eccf20f77bcf731a]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1517752133]]></wp:meta_value>
+			</wp:postmeta>
+			<wp:postmeta>
+			<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-		<title>
-		Démonstration		</title>
-		<link>https://imathi.eu/gutenslides/demonstration/</link>
-		<pubDate>Sat, 03 Feb 2018 14:17:27 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3482</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:list -->
+			<title>
+			Démonstration		</title>
+			<link>https://imathi.eu/gutenslides/demonstration/</link>
+			<pubDate>Sat, 03 Feb 2018 14:17:27 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3482</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+<!-- wp:core/list -->
 <ul>
     <li>Conversion de mes anciens contenus ?</li>
     <li>L&#x27;interface.
@@ -554,88 +545,87 @@
     <li>Guides contextuels.</li>
     <li>Ça va plaire à Grégoire !</li>
 </ul>
-<!-- /wp:list -->
+<!-- /wp:core/list -->
 
-<!-- wp:code -->
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>![Badge Orga](https://c1.staticflickr.com/5/4757/24972528877_597e8af23f_o.png)
 _italic_
 __bold__
 + bullet
 [lien](https://imathi.eu)</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3715</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-03 15:17:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-03 14:17:27]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[demonstration]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3715</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-03 15:17:27]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-03 14:17:27]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[demonstration]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>12</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		Support des metaboxes		</title>
-		<link>https://imathi.eu/gutenslides/support-des-metaboxes/</link>
-		<pubDate>Sat, 03 Feb 2018 14:31:35 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3500</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[<!-- wp:image {"id":3503,"align":"wide"} -->
-<figure class="wp-block-image alignwide"><img src="https://cldup.com/vjrLrJMnMT.png" alt="" class="wp-image-3503" /></figure>
-<!-- /wp:image -->
+			<title>
+			Support des metaboxes		</title>
+			<link>https://imathi.eu/gutenslides/support-des-metaboxes/</link>
+			<pubDate>Sat, 03 Feb 2018 14:31:35 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3500</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[<!-- wp:core/image {"id":3503,"align":"wide"} -->
+<figure class="wp-block-image alignwide"><img src="https://cldup.com/vjrLrJMnMT.png" alt="" /></figure>
+<!-- /wp:core/image -->
 
 <!-- wp:gutenprez/navigation /-->]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3716</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-03 15:31:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-03 14:31:35]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[support-des-metaboxes]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3716</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-03 15:31:35]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-03 14:31:35]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[support-des-metaboxes]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>16</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
+			<wp:postmeta>
+				<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+				<wp:meta_value><![CDATA[1]]></wp:meta_value>
+			</wp:postmeta>
 		</item>
 		<item>
-		<title>
-		Profiter de L&#039;API des blocs		</title>
-		<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/</link>
-		<pubDate>Sun, 04 Feb 2018 11:32:48 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3507</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:cover-image {"url":"https://cldup.com/uYHmak2j-o.png","align":"full","contentAlign":"left","id":3523,"dimRatio":10} -->
+			<title>
+			Profiter de L&#039;API des blocs		</title>
+			<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/</link>
+			<pubDate>Sun, 04 Feb 2018 11:32:48 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3507</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+
+<!-- wp:core/cover-image {"url":"https://cldup.com/uYHmak2j-o.png","align":"full","contentAlign":"left","id":3523,"dimRatio":10} -->
 <section class="wp-block-cover-image has-background-dim-10 has-background-dim has-left-content alignfull" style="background-image:url(https://cldup.com/uYHmak2j-o.png)">
     <h2><a href="https://wordpress.org/gutenberg/handbook/block-api/">Blocks API</a></h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
-<!-- wp:list -->
+<!-- wp:core/list -->
 <ol>
     <li>Personnaliser la palette de couleur</li>
     <li>Utiliser toute la largeur de la page</li>
@@ -643,91 +633,87 @@ __bold__
     <li>Créer un type de bloc</li>
     <li>Créer un type de bloc avec WP-CLI</li>
 </ol>
-<!-- /wp:list -->
+<!-- /wp:core/list -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3717</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-04 12:32:48]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-04 11:32:48]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[profiter-de-lapi-des-blocks]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3717</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-04 12:32:48]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-04 11:32:48]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[profiter-de-lapi-des-blocks]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>0</wp:post_parent>
+			<wp:menu_order>14</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		5. Créer un bloc avec WP-CLI		</title>
-		<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/creer-un-block-avec-wp-cli/</link>
-		<pubDate>Sun, 04 Feb 2018 11:41:06 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3513</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:image {"id":3518,"align":"center"} -->
-<figure class="wp-block-image aligncenter"><a href="http://wp-cli.org/fr/"><img src="https://cldup.com/dUxxSnx1oO.jpg" alt=""/></a></figure>
-<!-- /wp:image -->
+			<title>
+			5. Créer un bloc avec WP-CLI		</title>
+			<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/creer-un-block-avec-wp-cli/</link>
+			<pubDate>Sun, 04 Feb 2018 11:41:06 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3513</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
 
-<!-- wp:code -->
+<!-- wp:core/image {"id":3518,"align":"center"} -->
+<figure class="wp-block-image aligncenter"><a href="http://wp-cli.org/fr/"><img src="https://cldup.com/dUxxSnx1oO.jpg" alt=""/></a></figure>
+<!-- /wp:core/image -->
+
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>$ wp scaffold plugin books
 $ wp scaffold block book --title=&quot;Book&quot; --plugin=books</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:quote -->
+<!-- wp:core/quote -->
 <blockquote class="wp-block-quote">
     <p>WP CLI est un ensemble d’outils en ligne de commande pour gérer vos installations WordPress. Vous pouvez mettre à jour les extensions, configurer des installations multi-site et beaucoup plus sans avoir recours à un navigateur web.</p><cite><a href="http://wp-cli.org/fr/">wp-cli.org</a></cite></blockquote>
-<!-- /wp:quote -->
+<!-- /wp:core/quote -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3718</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-04 12:41:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-04 11:41:06]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[creer-un-block-avec-wp-cli]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3717</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3718</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-04 12:41:06]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-04 11:41:06]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[creer-un-block-avec-wp-cli]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>3717</wp:post_parent>
+			<wp:menu_order>5</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		1. Personnaliser la palette de couleur		</title>
-		<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/1-personnaliser-la-palette-de-couleur/</link>
-		<pubDate>Sun, 04 Feb 2018 11:50:33 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3526</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:cover-image {"url":"https://cldup.com/tNt905sZsa.png","align":"full","id":3549,"dimRatio":0} -->
+			<title>
+			1. Personnaliser la palette de couleur		</title>
+			<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/1-personnaliser-la-palette-de-couleur/</link>
+			<pubDate>Sun, 04 Feb 2018 11:50:33 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3526</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+
+<!-- wp:core/cover-image {"url":"https://cldup.com/tNt905sZsa.png","align":"full","id":3549,"dimRatio":0} -->
 <section class="wp-block-cover-image alignfull" style="background-image:url(https://cldup.com/tNt905sZsa.png)">
     <h2> </h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
-<!-- wp:code -->
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>add_theme_support( &#x27;gutenberg&#x27;, array(
 	&#x27;colors&#x27; =&gt; array(
 		&#x27;#0073aa&#x27;,
@@ -736,93 +722,89 @@ $ wp scaffold block book --title=&quot;Book&quot; --plugin=books</code></pre>
 		&#x27;#444&#x27;,
 	),
 ) );</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:paragraph -->
+<!-- wp:core/paragraph -->
 <p>Source: <a href="https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#block-color-palettes">Blocks Support by themes</a></p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3719</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-04 12:50:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-04 11:50:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[1-personnaliser-la-palette-de-couleur]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3717</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3719</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-04 12:50:33]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-04 11:50:33]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[1-personnaliser-la-palette-de-couleur]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>3717</wp:post_parent>
+			<wp:menu_order>1</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		2. Utiliser toute la largeur de la page		</title>
-		<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/2-utiliser-toute-la-largeur-de-la-page/</link>
-		<pubDate>Sun, 04 Feb 2018 11:51:24 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3528</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:cover-image {"url":"https://cldup.com/iZAWX99mUu.jpg","align":"full","id":3552,"dimRatio":10} -->
+			<title>
+			2. Utiliser toute la largeur de la page		</title>
+			<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/2-utiliser-toute-la-largeur-de-la-page/</link>
+			<pubDate>Sun, 04 Feb 2018 11:51:24 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3528</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+
+<!-- wp:core/cover-image {"url":"https://cldup.com/iZAWX99mUu.jpg","align":"full","id":3552,"dimRatio":10} -->
 <section class="wp-block-cover-image has-background-dim-10 has-background-dim alignfull" style="background-image:url(https://cldup.com/iZAWX99mUu.jpg)">
     <h2> </h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
-<!-- wp:code -->
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>add_theme_support( &#x27;align-wide&#x27; );</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:paragraph -->
+<!-- wp:core/paragraph -->
 <p>Source: <a href="https://wordpress.org/gutenberg/handbook/extensibility/theme-support/#wide-alignment">Blocks support by themes</a></p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3720</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-04 12:51:24]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-04 11:51:24]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[2-utiliser-toute-la-largeur-de-la-page]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3717</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3720</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-04 12:51:24]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-04 11:51:24]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[2-utiliser-toute-la-largeur-de-la-page]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>3717</wp:post_parent>
+			<wp:menu_order>2</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		3. Créer une combinaison de blocs pour les types de contenu		</title>
-		<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/3-creer-une-combinaison-de-blocks-pour-les-types-de-contenus/</link>
-		<pubDate>Sun, 04 Feb 2018 11:52:33 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3531</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:cover-image {"url":"https://cldup.com/Ep4-ty8K9D.jpg","align":"full","id":3566,"hasParallax":true,"dimRatio":20} -->
+			<title>
+			3. Créer une combinaison de blocs pour les types de contenu		</title>
+			<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/3-creer-une-combinaison-de-blocks-pour-les-types-de-contenus/</link>
+			<pubDate>Sun, 04 Feb 2018 11:52:33 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3531</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+
+<!-- wp:core/cover-image {"url":"https://cldup.com/Ep4-ty8K9D.jpg","align":"full","id":3566,"hasParallax":true,"dimRatio":20} -->
 <section class="wp-block-cover-image has-background-dim-20 has-background-dim has-parallax alignfull" style="background-image:url(https://cldup.com/Ep4-ty8K9D.jpg)">
     <h2> </h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
 <!-- wp:gutenblocks/gist {"url":"https://gist.github.com/imath/93ddeef9b3abbb444560a34b3f58f590","src":"https://gist.github.com/imath/93ddeef9b3abbb444560a34b3f58f590.js"} -->
 <div class="wp-block-gutenblocks-gist">
@@ -830,56 +812,54 @@ $ wp scaffold block book --title=&quot;Book&quot; --plugin=books</code></pre>
 </div>
 <!-- /wp:gutenblocks/gist -->
 
-<!-- wp:paragraph -->
+<!-- wp:core/paragraph -->
 <p>Pour en savoir plus : lire la documentation de Gutenberg sur les <a href="https://wordpress.org/gutenberg/handbook/templates/#custom-post-types">Templates</a></p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3721</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-04 12:52:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-04 11:52:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[3-creer-une-combinaison-de-blocks-pour-les-types-de-contenus]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3717</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3721</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-04 12:52:33]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-04 11:52:33]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[3-creer-une-combinaison-de-blocks-pour-les-types-de-contenus]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>3717</wp:post_parent>
+			<wp:menu_order>3</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 		<item>
-		<title>
-		4. Créer un type de bloc		</title>
-		<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/4-creer-un-block/</link>
-		<pubDate>Sun, 04 Feb 2018 11:53:50 +0000</pubDate>
-		<dc:creator><![CDATA[imath]]></dc:creator>
-		<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3534</guid>
-		<description></description>
-		<content:encoded>
-		<![CDATA[
-		<!-- wp:cover-image {"url":"https://cldup.com/DDsw4Sfxq5.jpg","align":"full","id":3576,"hasParallax":true} -->
+			<title>
+			4. Créer un type de bloc		</title>
+			<link>https://imathi.eu/gutenslides/profiter-de-lapi-des-blocks/4-creer-un-block/</link>
+			<pubDate>Sun, 04 Feb 2018 11:53:50 +0000</pubDate>
+			<dc:creator><![CDATA[admin]]></dc:creator>
+			<guid isPermaLink="false">https://imathi.eu/?post_type=gutenslides&#038;p=3534</guid>
+			<description></description>
+			<content:encoded>
+			<![CDATA[
+
+<!-- wp:core/cover-image {"url":"https://cldup.com/DDsw4Sfxq5.jpg","align":"full","id":3576,"hasParallax":true} -->
 <section class="wp-block-cover-image has-background-dim has-parallax alignfull" style="background-image:url(https://cldup.com/DDsw4Sfxq5.jpg)">
     <h2> </h2>
 </section>
-<!-- /wp:cover-image -->
+<!-- /wp:core/cover-image -->
 
-<!-- wp:heading -->
+<!-- wp:core/heading -->
 <h2>L&#x27;initialisation du bloc se fait en PHP</h2>
-<!-- /wp:heading -->
+<!-- /wp:core/heading -->
 
-<!-- wp:paragraph -->
+<!-- wp:core/paragraph -->
 <p>Dans un premier temps, il s&#x27;agit de référencer votre bloc au moment de l&#x27;initialisation de WordPress (hook <code>init</code>﻿) :</p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:code -->
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>$version = 1.0.0;
 
 wp_register_script(
@@ -919,13 +899,13 @@ register_block_type( &#x27;custom/block&#x27;, array(
 	&#x27;editor_style&#x27;  =&gt; &#x27;block-editor-style&#x27;,
 	&#x27;style&#x27;         =&gt; &#x27;block-frontend-style&#x27;,
 ) );</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:heading -->
+<!-- wp:core/heading -->
 <h2>Le fonctionnement de votre bloc s&#x27;écrit en JavaScript</h2>
-<!-- /wp:heading -->
+<!-- /wp:core/heading -->
 
-<!-- wp:code -->
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>( function( wp ) {
 	var registerBlockType = wp.blocks.registerBlockType;
 	var el = wp.element.createElement;
@@ -953,17 +933,17 @@ register_block_type( &#x27;custom/block&#x27;, array(
 } )(
 	window.wp
 );</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:paragraph {"align":"center","textColor":"#eee","backgroundColor":"#229fd8","fontSize":23} -->
+<!-- wp:core/paragraph {"align":"center","textColor":"#eee","backgroundColor":"#229fd8","fontSize":23} -->
 <p style="background-color:#229fd8;color:#eee;font-size:23px;text-align:center" class="has-background">&#x26a0;&#xfe0f;   dépendances <code>wp-blocks</code> et <code>wp-element﻿</code>﻿</p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:heading -->
+<!-- wp:core/heading -->
 <h3>Blocs dynamiques</h3>
-<!-- /wp:heading -->
+<!-- /wp:core/heading -->
 
-<!-- wp:code -->
+<!-- wp:core/code -->
 <pre class="wp-block-code"><code>wp_register_script(
 	&#x27;dynamic-block-script&#x27;,
 	&#x27;url vers le JavaScript de votre block&#x27;,
@@ -989,32 +969,29 @@ register_block_type( &#x27;custom/block-dynamique&#x27;, array(
 function custom_block_dynamique( $attributes = array() ) {
 	return &#x27;Bonjour!&#x27;;
 }</code></pre>
-<!-- /wp:code -->
+<!-- /wp:core/code -->
 
-<!-- wp:paragraph -->
+<!-- wp:core/paragraph -->
 <p>Pour en savoir plus : reportez vous à cette <a href="https://wordpress.org/gutenberg/handbook/blocks/creating-dynamic-blocks/">section</a> de la documentation de Gutenberg</p>
-<!-- /wp:paragraph -->
+<!-- /wp:core/paragraph -->
 
-<!-- wp:gutenprez/navigation /-->		]]>		</content:encoded>
-		<excerpt:encoded>
-		<![CDATA[
-				]]>		</excerpt:encoded>
-		<wp:post_id>3722</wp:post_id>
-		<wp:post_date><![CDATA[2018-02-04 12:53:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-02-04 11:53:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[4-creer-un-block]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>3717</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-					<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
+<!-- wp:gutenprez/navigation /-->				]]>		</content:encoded>
+			<excerpt:encoded>
+			<![CDATA[
+
+						]]>		</excerpt:encoded>
+			<wp:post_id>3722</wp:post_id>
+			<wp:post_date><![CDATA[2018-02-04 12:53:50]]></wp:post_date>
+			<wp:post_date_gmt><![CDATA[2018-02-04 11:53:50]]></wp:post_date_gmt>
+			<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+			<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+			<wp:post_name><![CDATA[4-creer-un-block]]></wp:post_name>
+			<wp:status><![CDATA[publish]]></wp:status>
+			<wp:post_parent>3717</wp:post_parent>
+			<wp:menu_order>4</wp:menu_order>
+			<wp:post_type><![CDATA[gutenslides]]></wp:post_type>
+			<wp:post_password><![CDATA[]]></wp:post_password>
+			<wp:is_sticky>0</wp:is_sticky>
 		</item>
 	</channel>
 </rss>

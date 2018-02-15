@@ -117,10 +117,10 @@
 <!-- wp:core/gallery {"align":"wide","columns":1,"className":"aligncenter"} -->
 <ul class="wp-block-gallery alignwide columns-1 is-cropped aligncenter">
     <li class="blocks-gallery-item">
-        <figure><img src="https://cldup.com/EoFaea6RTC.png" alt="" data-id="3383" /></figure>
+        <figure><img src="https://cldup.com/EoFaea6RTC.png" alt="" /></figure>
     </li>
     <li class="blocks-gallery-item">
-        <figure><img src="https://cldup.com/xPQ-s7pLUt.png" alt="" data-id="3432" /></figure>
+        <figure><img src="https://cldup.com/xPQ-s7pLUt.png" alt="" /></figure>
     </li>
 </ul>
 <!-- /wp:core/gallery -->
@@ -314,10 +314,10 @@
 <!-- wp:core/gallery {"align":"full","columns":2,"imageCrop":false} -->
 <ul class="wp-block-gallery alignfull columns-2">
     <li class="blocks-gallery-item">
-        <figure><img src="https://cldup.com/BbySdK8x-u.png" alt="" data-id="3368" /></figure>
+        <figure><img src="https://cldup.com/BbySdK8x-u.png" alt="" /></figure>
     </li>
     <li class="blocks-gallery-item">
-        <figure><img src="https://cldup.com/e1RzKTIyDZ.png" alt="" data-id="3369" /></figure>
+        <figure><img src="https://cldup.com/e1RzKTIyDZ.png" alt="" /></figure>
     </li>
 </ul>
 <!-- /wp:core/gallery -->

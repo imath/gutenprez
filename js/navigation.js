@@ -4,8 +4,8 @@
 
 /* global gutenPrezStrings */
 ( function( wp ) {
-	var el                = wp.element.createElement,
-	    registerBlockType = wp.blocks.registerBlockType;
+	var el = wp.element.createElement,
+		registerBlockType = wp.blocks.registerBlockType;
 
 	registerBlockType( 'gutenprez/navigation', {
 
@@ -22,7 +22,8 @@
 		useOnce: true,
 
 		edit: function() {
-			var elements = [], currentItem = parseInt( gutenPrezStrings.nav.current, 10 );
+			var elements = [],
+				currentItem = parseInt( gutenPrezStrings.nav.current, 10 );
 
 			if ( ! gutenPrezStrings.nav.links.length ) {
 				elements.push( el( 'p', { key: 'noitems' }, gutenPrezStrings.nav.nonav ) );
@@ -30,24 +31,24 @@
 				elements.push( el( 'a', {
 					key: 'prev',
 					className: 'prev',
-					href: gutenPrezStrings.nav.links[0].url,
+					href: gutenPrezStrings.nav.links[ 0 ].url,
 				}, gutenPrezStrings.nav.prev ) );
 				elements.push( el( 'a', {
 					key: 'next',
 					className: 'next',
-					href: gutenPrezStrings.nav.links[2].url,
+					href: gutenPrezStrings.nav.links[ 2 ].url,
 				}, gutenPrezStrings.nav.next ) );
-			} else if ( currentItem === gutenPrezStrings.nav.links[0].id ) {
+			} else if ( currentItem === gutenPrezStrings.nav.links[ 0 ].id ) {
 				elements.push( el( 'a', {
 					key: 'next',
 					className: 'next',
-					href:    gutenPrezStrings.nav.links[1].url,
+					href: gutenPrezStrings.nav.links[ 1 ].url,
 				}, gutenPrezStrings.nav.next ) );
 			} else {
 				elements.push( el( 'a', {
 					key: 'prev',
 					className: 'prev',
-					href: gutenPrezStrings.nav.links[0].url,
+					href: gutenPrezStrings.nav.links[ 0 ].url,
 				}, gutenPrezStrings.nav.prev ) );
 			}
 
@@ -60,7 +61,6 @@
 
 		save: function() {
 			return null;
-		}
+		},
 	} );
-
-} )( window.wp || {} );
+}( window.wp || {} ) );

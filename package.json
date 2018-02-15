@@ -1,0 +1,25 @@
+{
+	"name": "Gutenprez",
+	"version": "1.0.0",
+	"description": "Do your keynote using Gutenberg",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/imath/gutenprez"
+	},
+	"engines": {
+		"node": "8.9.2"
+	},
+	"author": "imath",
+	"license": "GPL-2.0+",
+	"devDependencies": {
+		"eslint": "^4.16.0",
+		"eslint-plugin-wordpress": "^0.1.0",
+		"eslint-config-wordpress": "2.0.0",
+		"webpack": "^3.6.0",
+		"webpack-dev-server": "^2.9.1"
+	},
+	"scripts": {
+		"lint": "eslint .",
+		"build": "webpack"
+	}
+}

@@ -1,7 +1,7 @@
 {
 	"name": "Gutenprez",
 	"version": "1.0.0",
-	"description": "Do your keynote using Gutenberg",
+	"description": "Do your keynote about Gutenberg using Gutenberg",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/imath/gutenprez"

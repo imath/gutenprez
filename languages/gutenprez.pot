@@ -1,0 +1,65 @@
+# Copyright (C) 2018 GutenPrez
+# This file is distributed under the same license as the GutenPrez package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GutenPrez 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/gutenprez\n"
+"POT-Creation-Date: 2018-02-16 05:13:59+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/functions.php:123
+msgid "Gutenslides"
+msgstr ""
+
+#: inc/functions.php:125
+msgctxt "Main Plugin menu"
+msgid "GutenPrez"
+msgstr ""
+
+#: inc/functions.php:126
+msgid "Gutenslide"
+msgstr ""
+
+#: inc/functions.php:180
+msgctxt "Nav Block Title"
+msgid "Navigation"
+msgstr ""
+
+#: inc/functions.php:181
+msgctxt "Nav Block Previous"
+msgid "Précédent"
+msgstr ""
+
+#: inc/functions.php:182
+msgctxt "Nav Block Next"
+msgid "Suivant"
+msgstr ""
+
+#: inc/functions.php:185
+msgctxt "Nav Block No available nav"
+msgid "Aucune navigation disponible."
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "GutenPrez"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://imathi.eu/tag/gutenprez/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Gutenberg présenté dans Gutenberg"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "imath"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://imathi.eu/"
+msgstr ""

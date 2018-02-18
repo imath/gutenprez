@@ -1,29 +1,29 @@
 {
-	"name": "Gutenprez",
-	"version": "1.0.0",
-	"description": "Do your keynote about Gutenberg using Gutenberg",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/imath/gutenprez"
-	},
-	"engines": {
-		"node": "8.9.2"
-	},
-	"author": "imath",
-	"license": "GPL-2.0+",
-	"devDependencies": {
-		"css-loader": "^0.28.9",
-		"eslint": "^4.16.0",
-		"eslint-config-wordpress": "2.0.0",
-		"eslint-plugin-wordpress": "git://github.com/WordPress-Coding-Standards/eslint-plugin-wordpress.git#327b6bdec434177a6e841bd3210e87627ccfcecb",
-		"extract-text-webpack-plugin": "3.0.0",
-		"postcss-loader": "2.0.6",
-		"style-loader": "0.18.2",
-		"webpack": "^3.6.0",
-		"webpack-dev-server": "^2.9.1"
-	},
-	"scripts": {
-		"lint": "eslint .",
-		"build": "webpack"
-	}
+  "name": "Gutenprez",
+  "version": "1.0.1",
+  "description": "Do your keynote about Gutenberg using Gutenberg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/imath/gutenprez"
+  },
+  "engines": {
+    "node": "8.9.2"
+  },
+  "author": "imath",
+  "license": "GPL-2.0+",
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "eslint": "^4.16.0",
+    "eslint-config-wordpress": "2.0.0",
+    "eslint-plugin-wordpress": "git://github.com/WordPress-Coding-Standards/eslint-plugin-wordpress.git#327b6bdec434177a6e841bd3210e87627ccfcecb",
+    "extract-text-webpack-plugin": "3.0.0",
+    "postcss-loader": "2.0.6",
+    "style-loader": "0.18.2",
+    "webpack": "^3.6.0",
+    "webpack-dev-server": "^2.9.1"
+  },
+  "scripts": {
+    "lint": "eslint .",
+    "build": "webpack"
+  }
 }

@@ -82,7 +82,7 @@ function gutenprez_register() {
 	$scripts = apply_filters( 'gutenprez_register_javascripts', array(
 		'gutenprez-navigation' => array(
 			'location' => sprintf( '%1$snavigation%2$s.js', $url, $min ),
-			'deps'     => array( 'wp-blocks', 'wp-element' ),
+			'deps'     => array( 'wp-blocks', 'wp-element', 'wp-edit-post' ),
 		),
 	), $url, $min, $v );
 
@@ -139,12 +139,14 @@ add_action( 'init', 'gutenprez_register', 12 );
  * l10n for GutenPrez.
  *
  * @since 1.0.0
+ * @since 1.1.0 Prepare titles for the TOC.
  *
  * @return  array The GutenPrez l10n strings.
  */
 function gutenprez_l10n() {
 	$current_slide = get_post();
 	$edit_links = array();
+	$titles = array();
 
 	if ( 'publish' === get_post_status( $current_slide ) ) {
 		$gutenslides = get_pages( array(
@@ -153,12 +155,20 @@ function gutenprez_l10n() {
 		) );
 
 		$edit_links = array();
+		remove_filter( 'the_title', 'wptexturize' );
+
 		foreach ( $gutenslides as $gutenslide ) {
+			$title = get_the_title( $gutenslide );
 			$edit_links[ $gutenslide->ID ] = (object) array(
 				'id'  => $gutenslide->ID,
 				'url' => get_edit_post_link( $gutenslide->ID, 'raw' ),
 			);
+
+			$titles[ $gutenslide->ID ] = clone $edit_links[ $gutenslide->ID ];
+			$titles[ $gutenslide->ID ]->title = $title;
 		}
+
+		add_filter( 'the_title', 'wptexturize' );
 
 		$count = count( $edit_links );
 		if ( 2 <= count( $edit_links ) && isset(  $edit_links[ $current_slide->ID ] ) ) {
@@ -184,6 +194,11 @@ function gutenprez_l10n() {
 			'current' => $current_slide->ID,
 			'nonav'   => _x( 'Aucune navigation disponible.', 'Nav Block No available nav', 'gutenprez' ),
 		),
+		'plan' => array(
+			'planTitle' => _x( 'Plan de la présentation', 'Nav Sidebar TOC title', 'gutenprez' ),
+			'noplan'    => _x( 'Aucun plan disponible.', 'Nav Sidebar No available TOC', 'gutenprez' ),
+			'titles'    => array_values( $titles ),
+		)
 	);
 }
 

@@ -32,7 +32,7 @@
 			var elements = [],
 				currentItem = parseInt( gutenPrezStrings.nav.current, 10 );
 
-			if ( ! gutenPrezStrings.nav.links.length ) {
+			if ( 1 >= gutenPrezStrings.nav.links.length ) {
 				elements.push( el( 'p', { key: 'noitems' }, gutenPrezStrings.nav.nonav ) );
 			} else if ( 3 === gutenPrezStrings.nav.links.length ) {
 				elements.push( el( 'a', {

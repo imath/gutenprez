@@ -3,7 +3,7 @@
  * Plugin Name: GutenPrez
  * Plugin URI: https://imathi.eu/tag/gutenprez/
  * Description: Gutenberg présenté dans Gutenberg
- * Version: 1.0.1
+ * Version: 1.1.0
  * Requires at least: 4.9
  * Tested up to: 5.0
  * License: GNU/GPL 2
@@ -68,7 +68,7 @@ final class GutenPrez {
 	 */
 	private function globals() {
 		// Version
-		$this->version = '1.0.1';
+		$this->version = '1.1.0';
 
 		// Domain
 		$this->domain = 'gutenprez';

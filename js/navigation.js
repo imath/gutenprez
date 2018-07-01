@@ -1,11 +1,18 @@
 /**
- * GutenSlides Navigation Block
+ * GutenSlides Navigation Block & Custom Sidebar
  */
 
 /* global gutenPrezStrings */
 ( function( wp ) {
 	var el = wp.element.createElement,
-		registerBlockType = wp.blocks.registerBlockType;
+		registerBlockType = wp.blocks.registerBlockType,
+		Fragment = wp.element.Fragment,
+		PanelBody = wp.components.PanelBody,
+		PanelRow = wp.components.PanelRow,
+		PluginSidebar = wp.editPost.PluginSidebar,
+		PluginSidebarMoreMenuItem = wp.editPost.PluginSidebarMoreMenuItem,
+		registerPlugin = wp.plugins.registerPlugin,
+		postData = wp.data;
 
 	registerBlockType( 'gutenprez/navigation', {
 
@@ -19,13 +26,15 @@
 		category: 'layout',
 
 		// Use only once per GutenSlide
-		useOnce: true,
+		supports: {
+			multiple: false,
+		},
 
 		edit: function() {
 			var elements = [],
 				currentItem = parseInt( gutenPrezStrings.nav.current, 10 );
 
-			if ( ! gutenPrezStrings.nav.links.length ) {
+			if ( 1 >= gutenPrezStrings.nav.links.length ) {
 				elements.push( el( 'p', { key: 'noitems' }, gutenPrezStrings.nav.nonav ) );
 			} else if ( 3 === gutenPrezStrings.nav.links.length ) {
 				elements.push( el( 'a', {
@@ -62,5 +71,61 @@
 		save: function() {
 			return null;
 		},
+	} );
+
+	function gutenprezSidebar() {
+		var postID = postData.select( 'core/editor' ).getCurrentPostId(),
+			editLinks = [];
+
+		if ( ! gutenPrezStrings.plan.titles.length ) {
+			editLinks.push(
+				el( PanelRow,
+					{
+						key: 'noplan',
+					},
+					gutenPrezStrings.plan.noplan
+				)
+			);
+		} else {
+			gutenPrezStrings.plan.titles.forEach( function( t ) {
+				editLinks.push(
+					el( PanelRow,
+						{
+							key: 'chapter-' + t.id,
+						},
+						( postID === t.id ) ? t.title : el( 'a', { href: t.url }, t.title )
+					)
+				);
+			} );
+		}
+
+		return el(
+			Fragment,
+			{},
+			el(
+				PluginSidebarMoreMenuItem,
+				{
+					target: 'gutenprez/plan',
+				},
+				gutenPrezStrings.plan.planTitle
+			),
+			el(
+				PluginSidebar,
+				{
+					name: 'gutenprez/plan',
+					title: gutenPrezStrings.plan.planTitle,
+				},
+				el(
+					PanelBody,
+					{},
+					editLinks
+				)
+			)
+		);
+	}
+
+	registerPlugin( 'gutenprez-sidebar', {
+		icon: 'leftright',
+		render: gutenprezSidebar,
 	} );
 }( window.wp || {} ) );

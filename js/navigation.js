@@ -26,7 +26,9 @@
 		category: 'layout',
 
 		// Use only once per GutenSlide
-		useOnce: true,
+		supports: {
+			multiple: false,
+		},
 
 		edit: function() {
 			var elements = [],

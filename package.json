@@ -12,7 +12,7 @@
   "author": "imath",
   "license": "GPL-2.0+",
   "devDependencies": {
-    "css-loader": "^0.28.9",
+    "css-loader": "^2.1.1",
     "eslint": "^5.14.0",
     "eslint-config-wordpress": "2.0.0",
     "eslint-plugin-wordpress": "git://github.com/WordPress-Coding-Standards/eslint-plugin-wordpress.git#327b6bdec434177a6e841bd3210e87627ccfcecb",

@@ -24,7 +24,7 @@
     "webpack-dev-server": "^3.11.0"
   },
   "dependencies": {
-    "node-forge": ">=0.10.0"
+    "node-forge": ">=1.0.0"
   },
   "scripts": {
     "lint": "eslint .",

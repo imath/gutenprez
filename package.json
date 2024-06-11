@@ -20,7 +20,7 @@
     "merge": ">=2.1.1",
     "postcss-loader": "7.0.1",
     "style-loader": "0.18.2",
-    "webpack": "^4.29.4",
+    "webpack": "^5.91.0",
     "webpack-dev-server": "^5.0.4"
   },
   "dependencies": {
